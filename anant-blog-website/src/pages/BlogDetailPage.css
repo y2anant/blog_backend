@@ -1,0 +1,16 @@
+.blog-detail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .blog-detail-box {
+    max-width: 1200px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  
